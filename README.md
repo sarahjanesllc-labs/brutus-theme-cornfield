@@ -4,5 +4,4 @@ It uses node for a lot of the compressing and javascript inclusions.
 
 ## Developers
 
-Running `grunt` from within the src/ directory should build everything
-and place it within ../public/.
+Running `grunt` and output is located in public/.
