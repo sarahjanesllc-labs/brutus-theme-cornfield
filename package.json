@@ -1,0 +1,22 @@
+{
+  "name": "Brutus-Theme-Cornfield",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "stylus": "*"
+  },
+  "devDependencies": {
+    "browserify": "~2.36.1",
+    "grunt": "~0.4.2",
+    "grunt-browserify": "~1.2.11",
+    "grunt-contrib-uglify": "*",
+    "stylus": "*",
+    "grunt-contrib-jade": "~0.8.0",
+    "grunt-contrib-stylus": "~0.10.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "debowerify": "~0.6.0",
+    "browserify-shim": "~3.2.2"
+  }
+}
